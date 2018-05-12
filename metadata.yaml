@@ -42,6 +42,8 @@ creator:
     gutenberg_agent_id: '35159'
     url: http://www.gutenberg.org/2009/agents/35159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35449#The-Negro-and-the-elective-franchise.-A-Series-Of-Papers-And-A-Sermon
 gutenberg_issued: '2011-03-01'
 gutenberg_type: Text
 identifiers:
